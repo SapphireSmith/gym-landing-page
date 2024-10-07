@@ -8,7 +8,19 @@ First, clone the project:
 ```bash
 git clone < - url goes here - >
 ```
+Second, install the dependencies:
 
+for npm
+
+```bash
+npm install
+```
+
+for yarn
+
+```bash
+yarn install
+```
 
 
 
