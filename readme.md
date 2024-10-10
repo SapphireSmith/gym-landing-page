@@ -9,3 +9,14 @@ First, clone the project:
 ```bash
 git clone < - url goes here - >
 ```
+
+Second, Install the dependencies:
+
+```bash
+npm install
+```
+yarn
+
+```bash
+yarn install
+```
