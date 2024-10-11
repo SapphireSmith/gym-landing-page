@@ -20,3 +20,9 @@ yarn
 ```bash
 yarn install
 ```
+
+Third, Run the project:
+
+```bash
+npm run dev
+```
